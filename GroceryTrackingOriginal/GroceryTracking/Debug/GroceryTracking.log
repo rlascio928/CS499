@@ -1,0 +1,3 @@
+﻿  Source.cpp
+U:\CS210 Projects\GroceryTracking\GroceryTracking\Source.cpp(114,25): warning C4804: '<=': unsafe use of type 'bool' in operation
+  GroceryTracking.vcxproj -> U:\CS210 Projects\GroceryTracking\Debug\GroceryTracking.exe
